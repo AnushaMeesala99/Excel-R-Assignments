@@ -1,0 +1,31 @@
+1. Datatypes (dict, sets, range)
+2. Control Structures (if, if/else, while, for, break, continue)
+3. Functions
+   a. basics
+   b. passing arguments (by value, by ref..??)
+   c. Wrapper Functions
+   d. lambda func
+   e. args, kwargs
+   f. named arguments, default values
+
+4. Modules & Packages
+   - import - multiple
+   - package
+   - system packages
+
+5. MRF - Map, Reduce, Filter, Globals, 
+6. List and Dict comprehension
+7. File handling -, Txt, pickle
+8. Exception Handling
+9. Classes & OOPS
+   - basics, objects
+   - self, instance, class, static
+   - internal - __dict_, 
+   - encapsulation, abstraction, inheritance, poly
+   - abc - abstractbaseclasses
+
+10. Regex - patterns, matching
+11. Series, Numpy, Pandas
+12. Sorting - custom sorting, object based sorting
+13. DB - Connection, SQL
+14. JSON - 
